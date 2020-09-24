@@ -5,6 +5,8 @@
 1. Download Git from https://git-scm.com/downloads 
 2. Run the installer program, follow the defaults.
    :zap: Tweak 
+   
+   
     <img src="https://github.com/thesauravkarmakar/GitHub101/blob/master/images/git.PNG">
 3. Git requires your name and email address before you do any of your work. It is best to just configure Git from the start.
 4. Open Git Bash and enter the below mentioned code.
@@ -48,6 +50,7 @@ _P4Merge for Windows which is a visual comparsion and merge resolution tool that
 16. Select *only* the Merge and Diff Tool and deselect all others.
    <img src="https://github.com/thesauravkarmakar/GitHub101/blob/master/images/p4merge.PNG">
    Accept all defaults otherwise.
+   
 17. Now, let's integrate P4Merge with Git. You'll need to know where P4Merge is installed on your system -- which is normally under _Program Files_
 18. Configure P4Merge as ***Diff Tool** in Git:
 ```
@@ -58,11 +61,7 @@ git config --global difftool.prompt false
 19. Configure P4Merge as **Merge Tool** in Git:
 ```
 git config --global merge.tool p4merge
-````
-```
 git config --global mergetool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
-```
-```
 git config --global mergetool.prompt false
 ```
 
