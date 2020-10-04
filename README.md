@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thesauravkarmakar/GitHub101/blob/master/images/logo.png"/>
+  <img src="https://github.com/thesauravkarmakar/GitHub101/blob/master/images/logo-min.png"  width="560" height="315"/>
 </p>
 
 ## 🗃 Table of Contents 
