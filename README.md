@@ -10,7 +10,7 @@
      * [Windows](https://github.com/thesauravkarmakar/GitHub101/blob/master/Installation/Windows.md)
  2. Guides
      * [Creating a GitHub Repository]()
-     * [Linking Local Files/Folder to Github Repository]()
+     * [Linking Local Files/Folder to Github Repository](https://github.com/thesauravkarmakar/GitHub101/blob/master/Guides/linking-files-folders.md)
      * [Cloning a GitHub Repository]()
 
 ## 🤝 Contributors 
