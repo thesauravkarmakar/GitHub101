@@ -3,7 +3,9 @@
 
 1.On Github,navigate to the repository to be forked<br>
 2.To fork the repository, click the Fork button in the header of the repository.
-<img src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png"><br>
+<p align="center">
+<img src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png" height="100px" width="650" >
+</p>
 
 
 
