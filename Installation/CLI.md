@@ -1,7 +1,5 @@
 # Windows
-
-On Windows, the GitHub CLI is available via ![scoop](https://scoop.sh/), ![Chocolatey](https://chocolatey.org/), and as downloadable MSI.
-
+On Windows, the GitHub CLI is available via [Scoop](https://scoop.sh/), [Chocolatey](https://chocolatey.org/), and as downloadable MSI.
 #### scoop
 
 Install:
