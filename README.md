@@ -9,7 +9,7 @@
      * [macOS](https://github.com/thesauravkarmakar/GitHub101/blob/master/Installation/macOS.md)
      * [Windows](https://github.com/thesauravkarmakar/GitHub101/blob/master/Installation/Windows.md)
  2. Guides
-     * [Creating a GitHub Repository]()
+     * [Creating a GitHub Repository](https://github.com/Harshal0506/GitHub101/blob/Creating_first_repo_on_github/Creating%20First%20Repository%20on%20Github.md)
      * [Linking Local Files/Folder to Github Repository](https://github.com/thesauravkarmakar/GitHub101/blob/master/Guides/linking-files-folders.md)
      * [Cloning a GitHub Repository]()
 
