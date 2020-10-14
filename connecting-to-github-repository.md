@@ -1,4 +1,4 @@
-## Connecting Local files to Github Repository
+## Connecting Local folder to Github Repository
 
 
 Suppose you have a local folder on your machine and you want to turn it into a Git Repository and then connect to a Github Remote Repository.Here are the steps.
