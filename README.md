@@ -11,7 +11,7 @@
  2. Guides
      * [Creating a GitHub Repository](https://github.com/thesauravkarmakar/GitHub101/blob/master/Guides/creating_repo.md)
      * [Linking Local Files/Folder to Github Repository](https://github.com/thesauravkarmakar/GitHub101/blob/master/Guides/linking_local_folders.md)
-     * [Cloning a GitHub Repository]()
+     * [Cloning a GitHub Repository](https://github.com/thesauravkarmakar/GitHub101/blob/master/Cloning%20a%20GitHub%20repository.md)
 
 ## 🤝 Contributors 
 
