@@ -12,7 +12,7 @@
     Locate the green "code" button on your newly cloned project.  
     ![Code Button](/images/code-button.png)   
     Click the clipboard button to copy the repository web URL.    
-    ![Clone Button](/images/fork_button.jpg)
+    ![Clone Button](/images/https-url-clone.png)  
     In your terminal type `$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`.  
     This creates a local repository from your remote one.
 4. ### Make a new branch.
