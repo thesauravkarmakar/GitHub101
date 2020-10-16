@@ -1,4 +1,6 @@
-## Installing Git for macOS
+## Installation Steps
+
+### For macOS
 
 ### Method 1: Installing GitHub Desktop
 
