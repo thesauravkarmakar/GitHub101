@@ -1,3 +1,4 @@
+## Installation Steps
 
 ### For Linux
 
@@ -19,5 +20,6 @@ For OpenSUSE
 ```
 sudo zypper install git
 ```
-2. Follow steps 3 and 4 mentioned in the Installation for windows to configure git.
+2. Follow steps 3 and 4 mentioned in the [Installation for Windows](https://github.com/thesauravkarmakar/GitHub101/blob/master/Installation/Windows.md) to configure Git.
+
 ### :white_check_mark: You are done with the installation! 
