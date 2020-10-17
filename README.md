@@ -14,6 +14,7 @@
      * [Forking a GitHub Repository](https://github.com/thesauravkarmakar/GitHub101/blob/master/Guides/forking_a_repo.md)
      * [Cloning a GitHub Repository](https://github.com/thesauravkarmakar/GitHub101/blob/master/Guides/cloning_repo.md)
      * [Creating a Pull Request(PR)](https://github.com/thesauravkarmakar/GitHub101/blob/master/Guides/creating_a_pull_request.md)
+     * [Creating an Issue](https://github.com/thesauravkarmakar/GitHub101/blob/master/Guides/creating_issues.md)
 
 ## 🤝 Contributors 
 
