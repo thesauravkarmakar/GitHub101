@@ -5,25 +5,29 @@
 
 2. ### Locate to the issues tab.
     The "Issues" tab are located between "Code" and "Pull requests" as shown below.
+
     ![Issue Tab Menu](/images/issue-location.png)
 
 3. ### Make a new issue.
     Create your issue by clicking on the "New issue" button.
     It is located next to "Milestones".
+
     ![Issue Tab Menu](/images/new-issue-button.png)
 
 4. ### Start creating an issue.
     An issue commonly contains a title and comment.
     It's written in _Markdown Format_. If you are not familiar with it, you can use the tools on the tabs listed.
+
     ![Create New Issue](/images/create-new-issue.png)
 
 5. ### Submit your issue.
     Once you are done, submit your issue by clicking the "Submit new issue" button.
+
     ![Submit New Issue](/images/submit-new-issue.png)
 
     **Congrats! You just submitted your issue. You can review it on the "Issues".**
     
-    
+
 6. ### Addition: Milestones, Labels, and Assignees.
     These are great features to filter and categorize the issues that have been submitted. Let's take a look at the example below:
 
