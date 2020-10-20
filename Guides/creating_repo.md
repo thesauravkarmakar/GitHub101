@@ -4,7 +4,7 @@
 
 
 1. #### Create A Github Account _(if you haven't signed up yet)_
-    [Create a new Account On Github  Guide ](https://www.wikihow.com/Create-an-Account-on-GitHub)
+    [Create a new account On GitHub - GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/signing-up-for-github)
 2. #### After successfully setting up GitHub account login to your account. You will see the screen as below.
     ![Homepage of Github](https://media.geeksforgeeks.org/wp-content/uploads/20190826232755/1403.png)
 3. #### In the upper-right corner of any page, use the  drop-down menu, and select New repository.
