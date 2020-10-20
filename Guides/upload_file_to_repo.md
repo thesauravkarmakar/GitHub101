@@ -14,7 +14,7 @@
 </p>
 
 
-<h4><BOLD> Step 3) You will have a blnck page as this and now fill in the details and the file you want to add, I've created a simple Hello World C++ Program for this demo  </h4></BOLD>
+<h4><BOLD> Step 3) You will have a blnck page as this and now fill in the details with the extention of the type of file and the file you want to add, I've created a simple Hello World C++ Program for this demo  </h4></BOLD>
 
 <h5><BOLD> BEFORE </h5></BOLD>
 
