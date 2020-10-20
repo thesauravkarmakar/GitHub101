@@ -36,9 +36,10 @@
 
 <h5> Now ,you have to enter the title to the change or the file and if required , below in the bigger box , give details of your change/file and chose where you want to add the file and then click "Commit New File" </h5>
 
-
-<h5><BOLD> If you find your file name in the Repository , Congratulations , you have learnt to upload files in Repositories </h5></bold>
-
 <p align="center">
 <img width="1302" alt="Screenshot 2020-10-20 at 7 47 56 PM" src="https://user-images.githubusercontent.com/58665834/96602544-c0347580-1310-11eb-99d2-d1d74fc0302d.png">
 </p>
+
+<h5><BOLD> If you find your file name in the Repository , Congratulations , you have learnt to upload files in Repositories </h5></bold>
+
+
