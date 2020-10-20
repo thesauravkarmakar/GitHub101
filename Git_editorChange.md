@@ -10,9 +10,7 @@ To avoid the inconveniences , you could just change the default text editor whic
 
 **2)Open Terminal.**
 
-**3)To check your current default editor type :**
-
-**git config --global core.editor **
+**3)To check your current default editor type :** **git config --global core.editor **
 
 <img width="483" alt="Screenshot 2020-10-20 at 10 23 32 AM" src="https://user-images.githubusercontent.com/58665834/96541764-50959a80-12be-11eb-8121-31850b789c2f.png">
 
