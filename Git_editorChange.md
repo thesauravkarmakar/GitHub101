@@ -19,7 +19,9 @@
 
 ####$ git config --global core.editor "(editor name , ex : for atom : "atom" , for VisualStudioCode : "code" , etc) -n -w" 
 
-**Type the following to check you new git editor:** git config --global core.editor
+**Type the following to check you new git editor:** 
+
+####git config --global core.editor
 
 ####For example :-
 
@@ -27,6 +29,6 @@
 <img width="518" alt="Screenshot 2020-10-20 at 10 33 39 AM" src="https://user-images.githubusercontent.com/58665834/96542460-bc2c3780-12bf-11eb-86d7-47ee2899fc00.png">
 </p>
 
-####**If your desired texteditor appears , you have successfully made it your default Git editor , Congratulations**
+####If your desired texteditor appears , you have successfully made it your default Git editor , Congratulations
 
-####**Hope this helps , Happy coding .**
+####Hope this helps , Happy coding .
