@@ -14,15 +14,17 @@
 
 <h5>For example:</h5>
 
+<p align="center">
 <img width="458" alt="Screenshot 2020-10-20 at 9 39 42 AM" src="https://user-images.githubusercontent.com/58665834/96539295-5be5c780-12b8-11eb-840e-ca54b6fdaf7f.png">
-
+</p>
 
 <h4><bold>To set a new remote type :</h4></bold> <h5>$ git remote -v </h5>
 
 <h5>For example :- </h5>
 
+<p align="center">
 <img width="458" alt="Screenshot 2020-10-20 at 9 42 31 AM" src="https://user-images.githubusercontent.com/58665834/96539416-9bacaf00-12b8-11eb-8fa7-973fb738de4d.png">
-
+</p>
 
 <h4><bold>Verify new remote</h4></bold>
 <p>
@@ -33,22 +35,23 @@
 
 <h5>For example :-</h5>
 
-
+<p align="center">
 <img width="458" alt="Screenshot 2020-10-20 at 9 43 55 AM" src="https://user-images.githubusercontent.com/58665834/96539499-c8f95d00-12b8-11eb-9e0d-24a83d436631.png">
-
+</p>
 
 <h4><bold>To check all your remote repositories type :</h4></bold> <h5> git remote</h5>
 
 <h5>For example :-</h5>
 
-
+<p align="center">
 <img width="458" alt="Screenshot 2020-10-20 at 9 46 45 AM" src="https://user-images.githubusercontent.com/58665834/96539636-2d1c2100-12b9-11eb-9e42-d666d0c57ac4.png">
+</p>
 
+<h5><bold>After typing git remote , you should see the below</h5></bold>
 
-<h5></bold>After typing git remote , you should see the below</h5></bold>
-
+<p align="center">
 <img width="458" alt="Screenshot 2020-10-20 at 9 48 37 AM" src="https://user-images.githubusercontent.com/58665834/96539750-6e143580-12b9-11eb-8ed0-74a2a55120e7.png">
-
+</p>
 
 <h5><bold>As you see , if you find your remote name in the list , you have successfully created a remote repository .</h5></bold>
 
