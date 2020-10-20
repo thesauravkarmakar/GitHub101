@@ -1,8 +1,6 @@
 <h3><BOLD>GUIDE TO CREATE A REMOTE REPOSITORY</h3></BOLD>
 
-<h5><p>Hello , so you must be wondering what a remote repository is . Let me explain : A remote in Git is a common repository that all team members 
-use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server.
-In contrast to a local repository, a remote  does not provide a file tree of the project's current state but only consists of the .git versioning data.</h5></p>
+<h5><p>A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server.In contrast to a local repository, a remote  does not provide a file tree of the project's current state but only consists of the .git versioning data.</h5></p>
 
 
 <h5>Now , to setup a remote repository , follow the given instructions :-</h5>
