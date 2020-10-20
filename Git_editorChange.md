@@ -6,7 +6,7 @@ to edit the doc such commands like i (to edit) and :wq (to save and quit).
 
 To avoid the inconveniences , you could just change the default text editor which can be done as follows :-</h5>
 
-<h4>1)**Install your desired text editor(such as Microsoft VisualStudio , Atom ,etc).**
+<h4>1)Install your desired text editor(such as Microsoft VisualStudio , Atom ,etc).
 
 2)Open Terminal.
 
@@ -18,7 +18,7 @@ To avoid the inconveniences , you could just change the default text editor whic
 <img width="483" alt="Screenshot 2020-10-20 at 10 23 32 AM" src="https://user-images.githubusercontent.com/58665834/96541764-50959a80-12be-11eb-8121-31850b789c2f.png">
 </p>
 
-<h4>5)**Type this command to use your desired editor for git:**</h4>
+<h4>5) Type this command to use your desired editor for git:</h4>
 
 <h5>$ git config --global core.editor "(editor name , ex : for atom : "atom" , for VisualStudioCode : "code" , etc) -n -w" </h5>
 
