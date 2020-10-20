@@ -28,6 +28,7 @@ For Example :-
 **Verify new remote**
 
  origin  https://github.com/user/repo.git (fetch)
+ 
  origin  https://github.com/user/repo.git (push)
 
 
@@ -37,7 +38,7 @@ For example :-
 <img width="458" alt="Screenshot 2020-10-20 at 9 43 55 AM" src="https://user-images.githubusercontent.com/58665834/96539499-c8f95d00-12b8-11eb-9e0d-24a83d436631.png">
 
 
-**To check all your remote repositories type : git remote  ** 
+**To check all your remote repositories type : git remote** 
 
 For example :-
 
@@ -45,7 +46,7 @@ For example :-
 <img width="458" alt="Screenshot 2020-10-20 at 9 46 45 AM" src="https://user-images.githubusercontent.com/58665834/96539636-2d1c2100-12b9-11eb-9e42-d666d0c57ac4.png">
 
 
-**After typing git remote , you should see the below **
+**After typing git remote , you should see the below**
 
 <img width="458" alt="Screenshot 2020-10-20 at 9 48 37 AM" src="https://user-images.githubusercontent.com/58665834/96539750-6e143580-12b9-11eb-8ed0-74a2a55120e7.png">
 
