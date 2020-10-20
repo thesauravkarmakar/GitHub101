@@ -5,7 +5,7 @@ use to exchange their changes. In most cases, such a remote repository is stored
 In contrast to a local repository, a remote  does not provide a file tree of the project's current state but only consists of the .git versioning data.
 
 
-**Now , to setup a remote repository , follow the given instructions :-
+**Now , to setup a remote repository , follow the given instructions :-**
 To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.
 
 **The git remote add command takes two arguments:
