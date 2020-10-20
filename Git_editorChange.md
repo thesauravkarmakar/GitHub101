@@ -1,4 +1,4 @@
-#GUIDE : TO CHANGE YOUR GIT EDITOR 
+#**GUIDE : TO CHANGE YOUR GIT EDITOR** 
 
 For many people, the default text editor when using Git from the terminal is VIM.
 If you ever find yourself with a merge conflict , you’ll get kicked out to VIM to fix the conflict and then you’ll need to know the specific VIM commands 
