@@ -6,11 +6,11 @@ to edit the doc such commands like i (to edit) and :wq (to save and quit).
 
 To avoid the inconveniences , you could just change the default text editor which can be done as follows :-</h5>
 
-<h4>1)Install your desired text editor(such as Microsoft VisualStudio , Atom ,etc).
+<h4>1)Install your desired text editor(such as Microsoft VisualStudio , Atom ,etc).</h4>
 
-2)Open Terminal.
+<h4>2)Open Terminal.</h4>
 
-3)To check your current default editor type :</h4>
+<h4>3)To check your current default editor type :</h4>
 
 <h5>git config --global core.editor </h5>
 
