@@ -1,16 +1,16 @@
-<h3>GUIDE : TO CHANGE YOUR GIT EDITOR</h3>
+<h3><BOLD>GUIDE : TO CHANGE YOUR GIT EDITOR</h3></BOLD>
 
 <h5>For many people, the default text editor when using Git from the terminal is VIM.
-####If you ever find yourself with a merge conflict , you’ll get kicked out to VIM to fix the conflict and then you’ll need to know the specific VIM commands 
-####to edit the doc such commands like i (to edit) and :wq (to save and quit). 
+If you ever find yourself with a merge conflict , you’ll get kicked out to VIM to fix the conflict and then you’ll need to know the specific VIM commands 
+to edit the doc such commands like i (to edit) and :wq (to save and quit). 
 
-####To avoid the inconveniences , you could just change the default text editor which can be done as follows :-</h5>
+To avoid the inconveniences , you could just change the default text editor which can be done as follows :-</h5>
 
 <h4>1)**Install your desired text editor(such as Microsoft VisualStudio , Atom ,etc).**
 
-2)**Open Terminal.**
+2)Open Terminal.
 
-3)**To check your current default editor type :** </h4>
+3)To check your current default editor type :</h4>
 
 <h5>git config --global core.editor </h5>
 
