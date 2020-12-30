@@ -1,0 +1,31 @@
+README (as the name suggests: “read me”) is the first file one should read when starting a new project. It's a set of useful information about a project and a kind 
+of manual or you can create a personal Readme file from your "personal" Repository for your Github Account which acts as your Github Account's "Bio " .
+
+**FORMATTING**
+Every Good Readme file needs a bit of formatting to make it look more pleasing and to highlight any important keywords or sentences or headers . The formatting 
+syntaxes are :
+
+1)**Bold** :	"** **" or "__ __"	command/control + b	**This is bold text**	This is bold text
+2)*Italic* :	"* *" or "_ _"	command/control + i	*This text is italicized*	This text is italicized
+3)~~Strikethrough~~ :	"~~ ~~"		~~This was mistaken text~~	This was mistaken text
+4)**Bold and _nested_ _italic_**	: "** **" and "_ _"		**This text is _extremely_ important**	This text is extremely important
+5)***All bold and italic***	: "*** ***"		***All this text is important***	All this text is important
+
+
+**URLs**
+You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut 
+command + k to create a link.
+
+Ex: This site was built using [GitHub Pages](https://pages.github.com/).
+
+
+**Insert Images**
+You can add images to your Readme file by doing the following :
+1) Open an issue in your repository , 
+<img width="832" alt="Screenshot 2020-12-30 at 5 55 48 PM" src="https://user-images.githubusercontent.com/58665834/103351250-9e9dfa00-4ac8-11eb-893a-52827875d835.png">
+
+2) Drag and drop your image from your desktop and you would see the following
+<img width="832" alt="Screenshot 2020-12-30 at 5 56 18 PM" src="https://user-images.githubusercontent.com/58665834/103351267-b07f9d00-4ac8-11eb-80e1-dc2531a75bbb.png">
+
+3) Copy the given URL and paste it in your Readme File and then save your commit and you will see your image in the Readme file .
+
