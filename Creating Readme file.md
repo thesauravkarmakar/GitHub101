@@ -27,5 +27,5 @@ You can add images to your Readme file by doing the following :
 2) Drag and drop your image from your desktop and you would see the following
 <img width="832" alt="Screenshot 2020-12-30 at 5 56 18 PM" src="https://user-images.githubusercontent.com/58665834/103351267-b07f9d00-4ac8-11eb-80e1-dc2531a75bbb.png">
 
-3) Copy the given URL and paste it in your Readme File and then save your commit and you will see your image in the Readme file .
+3) Copy the given URL and paste it in your Readme File and then save your commit and you will see your image in the Readme file and save your file as Filename.md .
 
