@@ -32,7 +32,7 @@ alias npp='notepad++ -multiInst -nosession'
 11. Restart Git Bash.
 12. To make Notepad++ default text editor in Git, type this command in Git Bash
 ```
-git config core.editor "notepad++ -multiInst -nosession"
+git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 
 ```
 13. Then test it out by opening Git config's file  with Notepad++.
